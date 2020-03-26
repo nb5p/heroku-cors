@@ -1,0 +1,6 @@
+{
+  "name": "yacors",
+  "description": "Deploy CORS Anywhere without required request header.",
+  "repository": "https://github.com/nb5p/heroku-yacors",
+  "keywords": ["yacors", "cors-anywhere"]
+}
