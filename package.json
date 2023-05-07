@@ -1,6 +1,6 @@
 {
-  "name": "yacors",
-  "version": "1.0.0",
+  "name": "heroku-cors",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors-anywhere": "^0.4.1"
+    "cors-anywhere": "^0.4.4"
   }
 }
